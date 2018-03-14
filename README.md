@@ -1,4 +1,4 @@
-# Fraud-prediction-with-Naive-Bayes-and-TensorFlow
+# Fraud-prediction-with-various-algorithms(Naive Bayes, Logistic regression, SVM's)
 Binary classification of fraudulent data with imbalanced class problem
 
 Background
